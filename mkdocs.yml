@@ -1,1 +1,34 @@
 site_name: My Docs
+
+copyright: "Copyright &copy; 2017 APDL Team"
+
+pages :
+    - Introduction: index.md
+
+theme: 'material'
+
+markdown_extensions:
+    - footnotes
+    - admonition
+    - codehilite
+    - pymdownx.arithmatex
+    - pymdownx.betterem(smart_enable=all)
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.emoji:
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist(custom_checkbox=true)
+    - pymdownx.tilde
+
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+extra:
+    palette:
+      primary: 'green'
+      accent: 'orange'
