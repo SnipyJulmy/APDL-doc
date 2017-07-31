@@ -2,23 +2,38 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Welcome to the APDL's (Acquire and Process Description Language) documentation\n\n\nSite is in construction...",
             "title": "Introduction"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-the-apdls-acquire-and-process-description-language-documentation",
+            "text": "Site is in construction...",
+            "title": "Welcome to the APDL's (Acquire and Process Description Language) documentation"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/installation/",
+            "text": "TODO",
+            "title": "Installation"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/quick-start/",
+            "text": "TODO",
+            "title": "Quick start"
+        },
+        {
+            "location": "/cmdline/",
+            "text": "TODO",
+            "title": "Command-line"
+        },
+        {
+            "location": "/simple-example/",
+            "text": "TODO",
+            "title": "A simple example"
+        },
+        {
+            "location": "/apdl-tf/",
+            "text": "TODO",
+            "title": "APDL Transform Language"
         }
     ]
 }
