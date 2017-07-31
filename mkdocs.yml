@@ -1,9 +1,14 @@
-site_name: My Docs
+site_name: APDL Documentation
 
 copyright: "Copyright &copy; 2017 APDL Team"
 
 pages :
     - Introduction: index.md
+    - Installation: installation.md
+    - Quick start: quick-start.md
+    - Command-line: cmdline.md
+    - A simple example: simple-example.md
+    - APDL Transform Language: apdl-tf.md
 
 theme: 'material'
 
